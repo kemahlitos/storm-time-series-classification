@@ -80,16 +80,6 @@ All experiments are reproducible using the provided notebooks.
 
 ---
 
-## Current Status
-
-- Core experiments completed
-- Models and evaluation pipelines finalized
-- Paper currently under submission
-
-Once the paper is accepted, a citation and preprint link will be added to this repository.
-
----
-
 ## Contact
 
 For questions, discussion, or collaboration:
